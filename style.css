@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #444;
+    justify-content: center;
+}
+input{
+    font-size: 40px;
+    border-radius: 5px;
+    outline: none;
+    margin: 10px;
+}
+form{
+    display: flex;
+    height: 90vh;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
