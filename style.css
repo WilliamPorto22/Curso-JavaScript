@@ -20,6 +20,9 @@ input{
     outline: none;
     margin: 10px;
 }
+section{
+    margin-bottom: 20px;
+}
 
 form{
     display: flex;
@@ -62,4 +65,40 @@ a:hover{
 p{
     color:#fff;
     font-size: 20px;
+}
+
+#area{
+    background-color: green;
+    color: #fff;
+    border-radius: 11px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#area2{
+    background-color: green;
+    color: #fff;
+    border-radius: 11px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#area3{
+    background-color: green;
+    color: #fff;
+    border-radius: 11px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
