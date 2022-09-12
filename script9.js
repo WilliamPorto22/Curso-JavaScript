@@ -20,6 +20,10 @@ function calcular(){
     let pegaoValorInput = window.document.querySelector('input#vel')
     let res = window.document.getElementById('res')
     let velocidade = Number(pegaoValorInput.value)
-    res.innerHTML = `Sua velocidade é de ${velocidade}Km/h`
+    res.innerHTML = `<p>Sua velocidade é de ${velocidade}Km/h</p><br>`
+    if(velocidade > 100){
+        res.innerHTML += `Voce esta MULTADO por exesso de Velocidade!!`
+    }
+    res.innerHTML += '<p>Dirija sempre com cinto de seguranca!</p>'
 
 }
