@@ -23,4 +23,4 @@ for ( let a = 20 ; a <= 30 ; a++ ){
 
 for ( let b = 100 ; b <= 110 ; b++ ){
     console.log(`William Porto Tera entre R$${b} Bilhoes ate os 33 Anos!`)
-}
+}  
