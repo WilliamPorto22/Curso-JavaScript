@@ -16,6 +16,12 @@ body {
     color: aliceblue;
 }
 
+img{
+    width: 235px;
+    height: 270px;
+    margin: 20px;
+}
+
 input{
     font-size: 34px;
     border-radius: 5px;
