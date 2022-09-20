@@ -18,3 +18,14 @@ console.log(` O Numero ${numeroinfirmado} é ${resultado}!!`)
 
 
 // Acima feita por Willim 
+
+
+// Somar 
+let n1 = 2
+let n2 = 8
+
+function soma(parametros, parametros2) {
+    return n1 + n2
+}
+
+console.log(soma( n1, n2))
