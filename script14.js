@@ -21,6 +21,6 @@ for ( let a = 20 ; a <= 30 ; a++ ){
 
 // exemplo 2 
 
-for ( let b = 10000000000 ; b <= 11000000000 ; b+b ){
-    console.log(`William Porto Tera entre R$${b} ate os 33 Anos!`)
+for ( let b = 100 ; b <= 110 ; b++ ){
+    console.log(`William Porto Tera entre R$${b} Bilhoes ate os 33 Anos!`)
 }
